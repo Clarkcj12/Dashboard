@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Configuration status="WARN" package="network.palace.dashboard.Dashboard">
+<Configuration status="WARN" package="club.imaginears.dashboard.Dashboard">
     <Appenders>
         <!-- Standard output -->
         <Console name="SysOut" target="SYSTEM_OUT">
